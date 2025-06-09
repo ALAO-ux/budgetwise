@@ -46,7 +46,7 @@ Ce projet a été réalisé dans le cadre du module 3DVP pour mettre en pratique
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/budgetwise.git
+git clone https://github.com/ALAO-ux/budgetwise.git
 cd budgetwise
 ```
 
@@ -98,4 +98,4 @@ budgetwise/
 
 ## 👨‍💻 Auteur
 
-- Prénom Nom – [GitHub](https://github.com/votre-utilisateur)
+- ALAO Abdoul Moutaki – [GitHub](https://github.com/ALAO-ux)
